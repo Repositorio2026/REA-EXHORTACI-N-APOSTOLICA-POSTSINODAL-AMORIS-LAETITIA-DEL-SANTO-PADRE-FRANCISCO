@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260522130031AUBP2E</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605221300319QO85J</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EXHORTACIÓN APOSTÓLICA POSTSINODAL AMORIS LAETITIA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Monica Pilco</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El objetivo de este recurso es estudiar la “EXHORTACIÓN APOSTÓLICA POSTSINODAL AMORIS LAETITIA” en un grupo de 8 parejas con estado de matrimonio eclesiástico, civil y unión de hecho</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779472739959</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779470920241-yjcs7qshx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CAPITULO 3: LA MIRADA PUESTA EN JESÚS: VOCACIÓN DE LA FAMILIA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CAPITULO 3: LA MIRADA PUESTA EN JESÚS: VOCACIÓN DE LA FAMILIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CAPITULO 3: LA MIRADA PUESTA EN JESÚS: VOCACIÓN DE LA FAMILIA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779470920241-yjcs7qshx</odePageId>
+      <odeBlockId>block-1779471471274-twhyb90kl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779470920241-yjcs7qshx</odePageId>
+          <odeBlockId>block-1779471471274-twhyb90kl</odeBlockId>
+          <odeIdeviceId>idevice-1779471471273-ga0f7kcrk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_krdhsqkrdhsqkrdh.png" width="1408" height="768" alt="Gemini" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779471471273-ga0f7kcrk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_krdhsqkrdhsqkrdh.png\" width=\"1408\" height=\"768\" alt=\"Gemini\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>9a927ca6-9ce9-4d91-b090-58e59a7e13fa</odePageId>
+  <odeParentPageId>page-1779470920241-yjcs7qshx</odeParentPageId>
+  <pageName>¿Cómo cambiaría nuestra relación hoy si pudiéramos ver a nuestro cónyuge con los ojos de Jesús?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo cambiaría nuestra relación hoy si pudiéramos ver a nuestro cónyuge con los ojos de Jesús?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo cambiaría nuestra relación hoy si pudiéramos ver a nuestro cónyuge con los ojos de Jesús?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>9a927ca6-9ce9-4d91-b090-58e59a7e13fa</odePageId>
+      <odeBlockId>block-1779439853131-uczxhobbv</odeBlockId>
+      <blockName></blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>9a927ca6-9ce9-4d91-b090-58e59a7e13fa</odePageId>
+          <odeBlockId>block-1779439853131-uczxhobbv</odeBlockId>
+          <odeIdeviceId>idevice-1779439853129-5qmgerzbr</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.menti.com/alpammzs5n3t" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>9a927ca6-9ce9-4d91-b090-58e59a7e13fa</odePageId>
+      <odeBlockId>block-1779439644307-h1hj8pfvy</odeBlockId>
+      <blockName></blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>9a927ca6-9ce9-4d91-b090-58e59a7e13fa</odePageId>
+          <odeBlockId>block-1779439644307-h1hj8pfvy</odeBlockId>
+          <odeIdeviceId>idevice-1779439644306-a4h9xphio</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" width="1408" height="768" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779439644306-a4h9xphio","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"1408\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779418535470-gdmjlc8ry</odePageId>
+  <odeParentPageId>page-1779470920241-yjcs7qshx</odeParentPageId>
+  <pageName>Jesús con Familias</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Jesús con Familias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Jesús con Familias</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779418535470-gdmjlc8ry</odePageId>
+      <odeBlockId>block-1779472307966-4230bqbcq</odeBlockId>
+      <blockName></blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779418535470-gdmjlc8ry</odePageId>
+          <odeBlockId>block-1779472307966-4230bqbcq</odeBlockId>
+          <odeIdeviceId>idevice-1779472307965-w4us15vof</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1779472307965-w4us15vof" data-evaluationb="false" data-evaluationid="ad70ba72-a75c-4899-9b90-8d65e2892694"></div>
+            <div id="frmMainContainer-idevice-1779472307965-w4us15vof" class="form-IDevice" data-id="idevice-1779472307965-w4us15vof">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>¿en cuál de las siguientes situaciones reconocen más claramente la presencia de Jesús en su matrimonio o relación de pareja?</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1779472307965-w4us15vof">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1779472307965-w4us15vof" style="display:none;">
+                      <button  id="frmStartGame-idevice-1779472307965-w4us15vof" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1779472307965-w4us15vof" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1779472307965-w4us15vof" > </div>
+                        <div id="frmCover-idevice-1779472307965-w4us15vof" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1779472307965-w4us15vof" class="form-results-container inline">
+                        <div id="form-score-idevice-1779472307965-w4us15vof" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1779472307965-w4us15vof" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1779472307965-w4us15vof" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1779472307965-w4us15vof" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1779472307965-w4us15vof" type="button" value="Reiniciar"
+                            data-id="idevice-1779472307965-w4us15vof" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1779472307965-w4us15vof" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1779472307965-w4us15vof" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1779472307965-w4us15vof" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779472307965-w4us15vof","evaluation":false,"evaluationID":"ad70ba72-a75c-4899-9b90-8d65e2892694","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1779472307965-w4us15vof","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>¿en cuál de las siguientes situaciones reconocen más claramente la presencia de Jesús en su matrimonio o relación de pareja?</p>","questionsData":[{"id":"1779472498127-TYFFA","activityType":"selection","baseText":"","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"A) En las dificultades -  Cuando pasamos por momentos difíciles (enfermedad, desempleo, conflictos), sentimos que Jesús nos acompaña y nos da fuerza para seguir juntos."],[false,"B) En la vida cotidiana y simple — En los gestos diarios (una comida juntos, una oración breve, un abrazo), reconocemos la presencia silenciosa pero real de Jesús en nuestra vida ordinaria"],[false,"C) En la acogida y el perdón — Cuando aprendemos a perdonarnos mutuamente y a acogernos con paciencia, experimentamos a Jesús presente en ese gesto de amor y misericordia."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779418608536-drx5ab27v</odePageId>
+  <odeParentPageId>page-1779470920241-yjcs7qshx</odeParentPageId>
+  <pageName>Numerales 58 al 70</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Numerales 58 al 70</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Numerales 58 al 70</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779418608536-drx5ab27v</odePageId>
+      <odeBlockId>block-1779441825302-v5wtcip7c</odeBlockId>
+      <blockName></blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779418608536-drx5ab27v</odePageId>
+          <odeBlockId>block-1779441825302-v5wtcip7c</odeBlockId>
+          <odeIdeviceId>idevice-1779441825300-w99qab6xo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><video width="560" height="315" controls="controls">
+<source src="{{context_path}}/content/resources/Vocación_de_la_familia.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779441825300-w99qab6xo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><video width=\"560\" height=\"315\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/Vocación_de_la_familia.mp4\" type=\"video/mp4\" /></video></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779442105815-22odecesn</odePageId>
+  <odeParentPageId>page-1779470920241-yjcs7qshx</odeParentPageId>
+  <pageName>Caso de Estudio: La Agenda Llena</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso de Estudio: La Agenda Llena</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Caso de Estudio: La Agenda Llena</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779442105815-22odecesn</odePageId>
+      <odeBlockId>block-1779442109935-jfh6s7xxm</odeBlockId>
+      <blockName>Caso de Estudio</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779442105815-22odecesn</odePageId>
+          <odeBlockId>block-1779442109935-jfh6s7xxm</odeBlockId>
+          <odeIdeviceId>idevice-1779442109933-sd9xu12yv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /><span style="font-size: 24pt;"><strong>"La Agenda Llena"</strong></span></p>
+<p style="text-align: center;"><strong><img src="{{context_path}}/content/resources/mceclip5.png" /></strong></p>
+<p><strong>El Caso Breve (Para leer en 1 minuto)</strong></p>
+<p><em>Carlos y Elena están atrapados en la rutina y el cansancio. Sus conversaciones se han vuelto puramente logísticas ("¿quién compra la leche?", "¿a qué hora recogemos a los chicos?", "¿pagaste la planilla?"). Hace semanas que no tienen un espacio para mirarse a los ojos, conversar en profundidad o saber cómo está el corazón del otro. Sienten que el tiempo se les escapa entre los dedos.</em></p>
+<p><span style="color: #000000;"><strong>Consigna para los Grupos (5 minutos)</strong></span><br />Cada grupo de 3 parejas debe consensuar una sola acción concreta combinando estas dos preguntas:</p>
+<p><em><strong>¿Qué soltar? (Austeridad):</strong></em> ¿A qué distracción o tarea superflua de la noche van a renunciar para recuperar tiempo?<br /><strong><em>¿Qué consagrar? (Sacralidad): </em></strong>¿Qué hábito sencillo de 10 minutos van a crear en casa para volver a conectar a solas?</p>
+<p><strong><span style="color: #000000;">Puesta en Común (4 minutos)</span></strong></p>
+<p>un vocero de cada grupo diga en una sola frase la solución que propusieron.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779442109933-sd9xu12yv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /><span style=\"font-size: 24pt;\"><strong>\"La Agenda Llena\"</strong></span></p>\n<p style=\"text-align: center;\"><strong><img src=\"{{context_path}}/content/resources/mceclip5.png\" /></strong></p>\n<p><strong>El Caso Breve (Para leer en 1 minuto)</strong></p>\n<p><em>Carlos y Elena están atrapados en la rutina y el cansancio. Sus conversaciones se han vuelto puramente logísticas (\"¿quién compra la leche?\", \"¿a qué hora recogemos a los chicos?\", \"¿pagaste la planilla?\"). Hace semanas que no tienen un espacio para mirarse a los ojos, conversar en profundidad o saber cómo está el corazón del otro. Sienten que el tiempo se les escapa entre los dedos.</em></p>\n<p><span style=\"color: #000000;\"><strong>Consigna para los Grupos (5 minutos)</strong></span><br />Cada grupo de 3 parejas debe consensuar una sola acción concreta combinando estas dos preguntas:</p>\n<p><em><strong>¿Qué soltar? (Austeridad):</strong></em> ¿A qué distracción o tarea superflua de la noche van a renunciar para recuperar tiempo?<br /><strong><em>¿Qué consagrar? (Sacralidad): </em></strong>¿Qué hábito sencillo de 10 minutos van a crear en casa para volver a conectar a solas?</p>\n<p><strong><span style=\"color: #000000;\">Puesta en Común (4 minutos)</span></strong></p>\n<p>un vocero de cada grupo diga en una sola frase la solución que propusieron.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779442562126-vskfawhb2</odePageId>
+  <odeParentPageId>page-1779470920241-yjcs7qshx</odeParentPageId>
+  <pageName>El Compromiso Quincenal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Compromiso Quincenal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El Compromiso Quincenal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779442562126-vskfawhb2</odePageId>
+      <odeBlockId>block-1779442572340-i9py1jrwi</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779442562126-vskfawhb2</odePageId>
+          <odeBlockId>block-1779442572340-i9py1jrwi</odeBlockId>
+          <odeIdeviceId>idevice-1779442572339-ftgma670m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la próxima reunión, cada pareja retira su propia tarjeta del cofre para recordar su compromiso, si pudo ser diario o si lograron la meta que se propusieron alcanzar antes del próximo encuentro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779442572339-ftgma670m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la próxima reunión, cada pareja retira su propia tarjeta del cofre para recordar su compromiso, si pudo ser diario o si lograron la meta que se propusieron alcanzar antes del próximo encuentro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
